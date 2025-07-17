@@ -31,6 +31,10 @@ body{
     background-color: rgb(234, 230, 249);
 }
 
+li{
+    list-style: none;
+}
+
 /*header*/
 header{
     background-image: url(../Assets/Hero-bg.png);
@@ -40,10 +44,6 @@ header{
 nav ul{
     display: flex;
     justify-content: space-between;
-}
-
-nav ul li{
-    list-style: none;
 }
 
 #logo-nav{
@@ -86,4 +86,26 @@ main{
     height: 330px;
     border-radius: 48px;
 }
+
+/*users section*/
+.users{
+    background-color: #d4d3fe;
+    text-align: center;
+    padding: 50px 150px 50px 150px;
+    margin-top: 150px;
+    border-radius: 24px;
+}
+
+.stats{
+    display: flex;
+    justify-content: space-around;
+}
+
+.focus{
+    color: #4E47FF;
+    font-size: 80px;
+    font-weight: bolder;
+}
+
+
 
