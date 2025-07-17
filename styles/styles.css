@@ -188,6 +188,29 @@ form textarea{
     padding: 20px;
 }
 
+/* footer section*/
 
+footer{
+    background-color: #FFFFFF;
+    margin-top: 150px;
+}
+
+.footer{
+    text-align: center;
+    padding: 100px;
+    
+}
+
+.footer ul{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 750px 70px 750px;
+}
+
+.footer ul a{
+    text-decoration: none;
+    color: #78788a;
+    padding: 0px 
+}
 
 
