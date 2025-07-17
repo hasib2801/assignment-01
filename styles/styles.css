@@ -136,6 +136,22 @@ main{
     border-radius: 9999px;
 }
 
+/* more section*/
+.more{
+    margin-top: 150px;
+    padding: 70px 150px 70px 150px;
+    background-color: #FFFFFF;
+    border-radius: 14px;
+    text-align: center;
+}
+
+.more img{
+    width: 840px;
+    height: 365px;
+    border-radius: 48px;
+    margin-top: 20px;
+}
+
 
 
 
