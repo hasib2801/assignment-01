@@ -107,5 +107,35 @@ main{
     font-weight: bolder;
 }
 
+/* review section */
+
+#review{
+    text-align: center;
+    margin-top: 150px;
+}
+.review{
+    display: flex;
+    justify-content: space-around;
+}
+.customer-review{ 
+    background-color: white;
+    padding: 25px;
+    border-radius: 14px;
+    max-width: 366px;
+}
+.customer-review div{
+    display: flex;
+    align-items: center;
+    text-align: left;
+    
+}
+
+.customer-review div img{
+    width: 40px;
+    height: 40px;
+    border-radius: 9999px;
+}
+
+
 
 
