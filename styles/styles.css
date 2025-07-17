@@ -13,7 +13,12 @@
     background-color: #4E47FF;
     border-style: none;
     max-width: 200px;
+    
 }
+body button:hover{
+    background-color: yellow;
+}
+
 
 .secondary-heading{
     font-size: 42px;
