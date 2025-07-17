@@ -5,3 +5,32 @@
   font-weight: normal;
   font-style: normal;
 }
+
+.btn-primary{
+    padding: 12px 36px 12px 36px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    border-style: none;
+}
+
+/*header*/
+header{
+    background-image: url(../Assets/Hero-bg.png);
+    padding: 50px 150px 150px 150px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul li{
+    list-style: none;
+}
+
+#logo-nav{
+    font-size: 34px;
+    font-weight: bold;
+    color: #4E47FF;
+}
