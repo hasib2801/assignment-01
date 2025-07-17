@@ -12,6 +12,7 @@
     color: #FFFFFF;
     background-color: #4E47FF;
     border-style: none;
+    max-width: 200px;
 }
 
 /*header*/
@@ -33,4 +34,15 @@ nav ul li{
     font-size: 34px;
     font-weight: bold;
     color: #4E47FF;
+}
+
+.banner{
+    text-align: center;
+    justify-items: center;
+    margin-top: 150px;
+}
+
+.banner h2{ 
+    font-size: 65px;
+    font-weight: bold;
 }
